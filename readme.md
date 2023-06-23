@@ -13,7 +13,7 @@ This is a website demonstrating some of the basic functions of HTML and CSS. It 
 - **Contact Page:** The Contact page allows visitors to reach out to the hotel for inquiries, reservations, or any other questions they may have. 
 <br>
 <br>
-## Technologies Used
+## Technologies Used <br>
 The Hotel Webpage project utilizes the following technologies:
 
 - **HTML:** The structure and content of the webpage are created using HTML, providing the foundation for the different sections and elements.
@@ -21,7 +21,7 @@ The Hotel Webpage project utilizes the following technologies:
 - **CSS:** CSS is used to style and enhance the appearance of the webpage, ensuring a visually appealing and user-friendly experience.
 <br>
 <br>
-## Usage
+## Usage <br>
 To explore the Hotel Webpage project:
 
 1. Clone the repository to your local machine or download the project files.
@@ -33,5 +33,5 @@ To explore the Hotel Webpage project:
 4. Feel free to modify and customize the code to fit your requirements or use it as a learning resource for HTML and CSS development.
 <br>
 <br>
-## Contributor
-Chang Hee Park: Project Creator and Developer
+## Contributor <br>
+- Chang Hee Park: Project Creator and Developer
