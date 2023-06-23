@@ -18,8 +18,7 @@ The Hotel Webpage project utilizes the following technologies:
 - **HTML:** The structure and content of the webpage are created using HTML, providing the foundation for the different sections and elements.
 
 - **CSS:** CSS is used to style and enhance the appearance of the webpage, ensuring a visually appealing and user-friendly experience.
-<br>
-<br>
+<br></br>
 ## Usage 
 To explore the Hotel Webpage project:
 
@@ -30,7 +29,6 @@ To explore the Hotel Webpage project:
 3. Navigate through the different sections of the website using the navigation menu.
 
 4. Feel free to modify and customize the code to fit your requirements or use it as a learning resource for HTML and CSS development.
-<br>
-<br>
+<br></br>
 ## Contributor 
 - Chang Hee Park: Project Creator and Developer
