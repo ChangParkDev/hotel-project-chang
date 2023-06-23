@@ -24,7 +24,7 @@ To explore the Hotel Webpage project:
 
 1. Clone the repository to your local machine or download the project files.
 
-2. Open the index.html file in your preferred web browser to view the webpage.
+2. Open the **'index.html'** file in your preferred web browser to view the webpage.
 
 3. Navigate through the different sections of the website using the navigation menu.
 
