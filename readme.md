@@ -8,7 +8,7 @@ This is a website demonstrating some of the basic functions of HTML and CSS. It 
 ## Features
 - **Home Page:** The Home page serves as the landing page of the website, providing an overview of the hotel's features.
 
-- **About Page:** The About page provides more detailed information about the hotel, including its history, mission, and testimonials
+- **About Page:** The About page provides more detailed information about the hotel, including its history, mission, and testimonials.
 
 - **Contact Page:** The Contact page allows visitors to reach out to the hotel for inquiries, reservations, or any other questions they may have. 
 <br></br>
